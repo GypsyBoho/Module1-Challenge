@@ -15,9 +15,7 @@ N/A
 
 Navigate to the url and enjoy navigating the site and gathering information.
 
-```md
-![Horiseon Landingpage Website] ( /Users/bohobabe/bootcamp/Challenges/Module1-Challenge/assets/images/Horiseon-Website-Challenges-Module1-Challenge-index-html-2023-06-22-21_47_30.png)
-```
+![Horiseon Landingpage Website](./assets/images/Horiseon-Website-Challenges-Module1-Challenge-index-html-2023-06-22-21_47_30.png)
 
 ## Credits
 
