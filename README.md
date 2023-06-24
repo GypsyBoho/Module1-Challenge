@@ -1,8 +1,19 @@
 # Module1-Challenge
 
+## Technology Used 
+
+| Technology Used         | Resource URL           | 
+| ------------- |:-------------:| 
+| HTML    | [https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) | 
+| CSS     | [https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)      |   
+| Git | [https://git-scm.com/](https://git-scm.com/)     |    
+
+
 ## Description
 
-- This page provides an accessible landing page website for the marketing company.
+[Visit the Horiseon Deployed Site](https://gypsyboho.github.io/Module1-Challenge/)
+
+- This page provides an accessible landing page website for the Horiseon marketing company.
 - I built this landing page website for the marketing company Horiseon so that they would have a presense on the web and they could help customers with their SEO optimization.
 - It is meant for anyone who might need help with their website SEO. 
 - This landingpage has helped Horiseon have a face and somewhere to connect clients if they want more information.
