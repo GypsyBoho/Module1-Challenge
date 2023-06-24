@@ -31,7 +31,7 @@ header nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-/* changed CSS to match HTML so that it can call the right  */
+/* changed CSS to match HTML so that it can call the right selector */
 header nav ul {
     list-style-type: none;
 }
